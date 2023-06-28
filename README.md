@@ -1,3 +1,7 @@
+Second React project
+
+Made with the help of Udemy course "React - The Complete Guide 2023 (incl. React Router & Redux)" by Maximilian Schwarzmüller
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
